@@ -1,1 +1,3 @@
-console.log("I'm working");
+import {Deck } from "./Deck.js";
+
+const deck = new Deck();
