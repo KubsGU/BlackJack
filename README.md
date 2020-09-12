@@ -1,2 +1,2 @@
 # BlackJack
-Simple javascript game
+Simple game created to master OOP javascript skills
